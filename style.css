@@ -1,0 +1,63 @@
+html {
+    margin: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    line-height: 1.2;
+}
+
+.app {
+    margin-bottom: 10px;
+}
+
+.clock {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.clock .value {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+
+.clock .icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+}
+
+.clock .icon.day{
+    background-color: #ef7b00;
+}
+
+.clock .icon.day{
+    background-color: #2459a7;
+}
+
+
+.header .logo {
+    display: block;
+    width: 96px;
+    height: 96px;
+}
+
+.clock {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.lot {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
